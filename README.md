@@ -1,7 +1,7 @@
 ## Hey there!👋 I am Priyanshi 
 
 <!--
-**Priyanshii1511/Priyanshii1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Priyanshii1511/Priyanshii1511** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 💬 Trying to make more projects in JavaScript, Node.js and MERN Stack.
 - 😄 ONE COMMIT AT A TIME 😄 </br> 
 
-#### 📫 Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
+#### ✨ Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
+#### 📫 Reach me via: priyanshisiwach15@gmail.com 
 
 
 ---
