@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 🔭 Final year B.Tech. (CS) student at ABES Engineering College, Ghaziabad.
 - 🌱 I'm currently practicing DSA.
 - 💬 Trying to make more projects in JavaScript, Node.js and MERN Stack.
-- 😄 ONE COMMIT AT A TIME 😄 </br>
+- 😄 ONE COMMIT AT A TIME 😄 </br> </br>
+
 📫 Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
