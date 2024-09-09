@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there!👋 I am Priyanshi 
 
 <!--
 **Priyanshii1511/Priyanshii1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Final year B.Tech. student at ABES Engineering College, Ghaziabad.
+- 🌱 I'm currently practicing DSA.
+- 💬 Trying to make projects in Node.js and MERN Stack.
+- 📫 Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
+- 😄 ONE COMMIT AT A TIME
