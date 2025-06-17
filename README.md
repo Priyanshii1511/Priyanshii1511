@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Final year B.Tech. (CS) student at ABES Engineering College, Ghaziabad.</br> 
+Final year B.Tech. (CS) student at ABES Engineering College, Ghaziabad.</br> 
 
 #### ✨ Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
 #### 📫 Reach me via: priyanshisiwach15@gmail.com 
