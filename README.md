@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Final year B.Tech. (CS) student at ABES Engineering College, Ghaziabad.
-- 🌱 I'm currently practicing DSA.
-- 💬 Trying to make more projects in JavaScript, Node.js and MERN Stack.
-- 😄 ONE COMMIT AT A TIME 😄 </br> 
+- 🔭 Final year B.Tech. (CS) student at ABES Engineering College, Ghaziabad.</br> 
 
 #### ✨ Check out my portfolio: https://priyanshii1511.github.io/Portfolio/
 #### 📫 Reach me via: priyanshisiwach15@gmail.com 
